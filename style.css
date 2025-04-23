@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: lightblue;
+    text-align: center;
+}
+
+#judul {
+    color: blue;
+    font-size: 24px;
+}
+
+.deskripsi {
+    color: gray;
+    font-style: italic;
+}
+
+.card {
+    background-color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    width: 250px;
+    margin: 10px auto;
+}
+
+.card:hover {
+    background-color: lightgray;
+}
+
+button {
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 15px;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+.box {
+    background-color: pink;
+    padding: 15px;
+    border-radius: 100%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+}
